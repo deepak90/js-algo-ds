@@ -1,0 +1,23 @@
+{
+    "name": "js-algo-ds",
+    "version": "1.0.0",
+    "description": "JavaScript algorithms and data structures",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/deepak90/js-algo-ds.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/deepak90/js-algo-ds/issues"
+    },
+    "homepage": "https://github.com/deepak90/js-algo-ds#readme",
+    "dependencies": {
+        "jest": "^23.6.0"
+    }
+}
